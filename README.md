@@ -47,14 +47,6 @@ Each project includes:
 
 ---
 
-## 💬 Need Help?
-
-If you get stuck or have questions:
-- Check the [Discussions](https://github.com/your-org/your-repo/discussions)
-- Open an [Issue](https://github.com/your-org/your-repo/issues)
-- Or message us on Discord (if applicable)
-
----
 
 ## 🌟 Want More?
 
@@ -63,5 +55,4 @@ Be sure to **Star ⭐ this repo** and come back often — we’re always adding 
 ---
 
 Happy coding! 💻✨  
-— _The Code Learners Team_
 
