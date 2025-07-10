@@ -6,25 +6,16 @@ Hey there! This space is designed just for **learners like you** who want to bui
 
 ## 🚀 Get Started
 
-Click below to explore a project and start coding!
-
-👉 **[Browse All Projects](#projects)**
 
 Each project includes:
 - Clear instructions 📝  
 - Beginner-friendly code 💻  
 - A chance to customize and get creative 🎨  
 
----
-
-## 🧠 What You'll Learn
-
-- Basic programming concepts (variables, loops, conditionals)
-- How to write and organize code
-- How to build and test small apps or games
-- Problem-solving and logical thinking
+Click below to explore a project and start coding!
 
 ---
+
 
 ## 🗂 Projects
 
