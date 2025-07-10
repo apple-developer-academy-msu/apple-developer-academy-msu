@@ -24,7 +24,7 @@ Click below to explore a project and start coding!
 | [Hello World](./projects/hello-world) | 🌱 Beginner | Learn how to print your first message. |
 | [Calculator App](./projects/calculator) | 🌿 Beginner | Build a simple calculator using basic math. |
 | [Guess the Number](./projects/guess-number) | 🌼 Beginner | Make a game where the computer picks a number and you guess it. |
-| [Oscar Code Cleanup ](https://github.com/apple-developer-academy-msu/CodeCleanUpExample) | 🌳 Intermediate | Create your own to-do list you can use every day. |
+| [Oscar Code Cleanup ](https://github.com/apple-developer-academy-msu/CodeCleanUpExample) | 🌳 Intermediate | Refactor this file to make the code cleaner, more readable, and easier to maintain |
 | [Weather App](./projects/weather-app) | 🌟 Intermediate | Use an API to show live weather info! |
 
 ---
