@@ -44,6 +44,3 @@ Click below to explore a project and start coding!
 Be sure to **Star ⭐ this repo** and come back often — we’re always adding new projects!
 
 ---
-
-Happy coding! 💻✨  
-
